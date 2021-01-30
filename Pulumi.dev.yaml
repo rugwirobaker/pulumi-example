@@ -1,0 +1,4 @@
+config:
+  equinix-stack:projectId: fed91013-6127-4d72-a4dc-a1f1b83e422d
+  packet:authToken:
+    secure: AAABADSFEysgLVBMqs64fmwW3I+Sm7GICetDgbMVonWn/6hDZaE8ASouMaHZASC5BaxkuQSg242KOJDrjzDuPA==
